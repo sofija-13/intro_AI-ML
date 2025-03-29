@@ -1,0 +1,16 @@
+name: intro_AI-ML
+channels:
+  - defaults
+  - conda-forge
+  - pytorch
+dependencies:
+  - python
+  - numpy
+  - matplotlib
+  - pandas
+  - scikit-learn
+  - jupyter
+  - pillow
+  - seaborn
+  - pip
+  - pytorch::pytorch
